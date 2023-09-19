@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+
+    <string name="help_message">Click on one of the buttons to make your choice.</string>
+    <string name="rock_label">🪨</string>
+    <string name="scissors_label">✂️</string>
+    <string name="paper_label">📃</string>
+    <string name="vs_label">⚔️</string>
+
+    <string name="victory_message">You win!</string>
+    <string name="loss_message">You lost.</string>
+    <string name="no_one_won_message">No one won!</string>
+    <string name="once_again">Would you like to play again?</string>
+    <string name="return_message">Return</string>
+    <string name="your_choice">Your choice</string>
+    <string name="random_choice">Random choice</string>
+</resources>
